@@ -11,6 +11,7 @@ from bullet import Bullet
 from alien import Alien
 from scoreboard import Scoreboard
 
+# Hello world
 
 class AllienInavasion:
     '''Загальний клас, що керує ресурсами та поведінкою гри'''
